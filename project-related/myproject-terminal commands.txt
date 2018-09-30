@@ -1,0 +1,19 @@
+purushotham.reddy@IZT-LT-067 MINGW64 /c/xampp/htdocs/development/myproject
+$ php artisan migrate
+Migration table created successfully.
+Migrated: 2014_10_12_000000_create_users_table
+Migrated: 2014_10_12_100000_create_password_resets_table
+
+purushotham.reddy@IZT-LT-067 MINGW64 /c/xampp/htdocs/development/myproject
+$ php artisan make:auth
+Created View: C:\xampp\htdocs\development\myproject\resources/views/auth/login.blade.php
+Created View: C:\xampp\htdocs\development\myproject\resources/views/auth/register.blade.php
+Created View: C:\xampp\htdocs\development\myproject\resources/views/auth/passwords/email.blade.php
+Created View: C:\xampp\htdocs\development\myproject\resources/views/auth/passwords/reset.blade.php
+Created View: C:\xampp\htdocs\development\myproject\resources/views/auth/emails/password.blade.php
+Created View: C:\xampp\htdocs\development\myproject\resources/views/layouts/app.blade.php
+Created View: C:\xampp\htdocs\development\myproject\resources/views/home.blade.php
+Created View: C:\xampp\htdocs\development\myproject\resources/views/welcome.blade.php
+Installed HomeController.
+Updated Routes File.
+Authentication scaffolding generated successfully!
